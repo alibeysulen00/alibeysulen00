@@ -3,6 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=alibeysulen00&color=green)    ![GitHub followers](https://img.shields.io/github/followers/alibeysulen00?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/alibeysulen00?style=social)
+
+
+
 Fırat Universitesi Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. Kendimi Android alanında geliştirmekteyim.
 Şuan Kotlin programlama dili ile android öğrenmekteyim. 
 
