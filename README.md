@@ -35,5 +35,4 @@ Fırat Universitesi Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. Kendimi 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alibeysulen00&theme=github-green-purple&locale=tr)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibeysulen00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
