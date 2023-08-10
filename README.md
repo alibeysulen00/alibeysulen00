@@ -30,8 +30,13 @@ Fırat Universitesi Bilgisayar Mühendisliğinden 2023 yılında mezun oldum. Ke
 </div>
   </div>
   
-  ### 🔥: My Stats :
+   <b>My Stats :</b>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alibeysulen00&theme=github-green-purple&locale=tr)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibeysulen00&show_icons=true&theme=radical)
+
+ <b>My language :</b>
+ 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alibeysulen00)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
