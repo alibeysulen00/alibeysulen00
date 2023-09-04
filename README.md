@@ -5,8 +5,8 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/alibeysulen00?style=social)
 
 
-Fırat Universitesi Bilgisayar Mühendisliğinden 2023 yılında mezun oldum. Kendimi Android alanında geliştirmekteyim.
-Şuan Kotlin programlama dili ile android öğrenmekteyim. Aynı zamanda SprinBoot ile Java Rest servisi öğrenmekteyim
+Fırat Universitesi Bilgisayar Mühendisliğinden 2023 yılında mezun oldum. Kendimi Backend alanında geliştirmekteyim.
+
 
 ## Diller ve Araçlar
 
