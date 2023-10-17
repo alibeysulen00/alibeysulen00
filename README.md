@@ -8,7 +8,7 @@
 Fırat Universitesi Bilgisayar Mühendisliğinden 2023 yılında mezun oldum. Kendimi Backend alanında geliştirmekteyim.
 
 
-## Diller ve Araçlar
+## Languages and Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,cs,py,androidstudio,pytorch,dotnet,git,idea,ai,mysql,postman,tensorflow,vscode,visualstudio,)](https://skillicons.dev)
 
@@ -16,7 +16,7 @@ Fırat Universitesi Bilgisayar Mühendisliğinden 2023 yılında mezun oldum. Ke
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  ## Benimle Bağlantı Kur !
+  ## Connect with me !
 
 <div id="badges" style="margin:center">
   <a href="https://www.linkedin.com/in/alibeysulen/">
