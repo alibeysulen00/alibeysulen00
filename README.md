@@ -36,7 +36,7 @@ Fırat Universitesi Bilgisayar Mühendisliğinden 2023 yılında mezun oldum. Ke
 
  <b>My language :</b>
  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alibeysulen00)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibeysulen00&layout=compact)
 
 
 
