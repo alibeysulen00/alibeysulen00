@@ -1,11 +1,11 @@
-### :+1: Merhaba Ben Muhammet Ali 
+### :+1: Hello, I'm  Ali 
 
 
 ![](https://komarev.com/ghpvc/?username=alibeysulen00&color=green)    ![GitHub followers](https://img.shields.io/github/followers/alibeysulen00?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/alibeysulen00?style=social)
 
 
-Fırat Universitesi Bilgisayar Mühendisliğinden 2023 yılında mezun oldum. Kendimi Backend alanında geliştirmekteyim.
+I graduated from Fırat University Computer Engineering in 2023. I am developing myself in the fields of Android and Backend.
 
 
 ## Languages and Technologies
