@@ -10,7 +10,7 @@ I graduated from Fırat University Computer Engineering in 2023. I am developing
 
 ## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,cs,py,androidstudio,pytorch,dotnet,git,idea,ai,mysql,postman,tensorflow,vscode,visualstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,py,dart,js,html,css,gradle,maven,sqlite,mysql,firebase,spring,hibernate,dotnet,flutter,ai,tensorflow,pytorch,git,github,idea,postman,vscode,androidstudio,visualstudio,eclipse)](https://skillicons.dev)
 
 
 <div id="header" align="center" >
