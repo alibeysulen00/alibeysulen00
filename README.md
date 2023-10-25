@@ -8,9 +8,13 @@
 I graduated from Fırat University Computer Engineering in 2023. I am developing myself in the fields of Android and Backend.
 
 
-## Languages and Technologies
+## Backend Tech Stack :
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,py,dart,js,html,css,gradle,maven,sqlite,mysql,firebase,spring,hibernate,dotnet,flutter,ai,tensorflow,pytorch,git,github,idea,postman,vscode,androidstudio,visualstudio,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,gradle,maven,mysql,spring,hibernate,dotnet,git,github,idea,postman,vscode,visualstudio)](https://skillicons.dev)
+
+## Android Tech Stack :
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,gradle,sqlite,firebase,git,github,androidstudio)](https://skillicons.dev)
 
 
 <div id="header" align="center" >
