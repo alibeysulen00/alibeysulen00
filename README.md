@@ -36,7 +36,8 @@ I graduated from Fırat University Computer Engineering in 2023. I am developing
 
  <b>My language :</b>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibeysulen00&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibeysulen00&theme=tokyonight)
+
 
 
 
