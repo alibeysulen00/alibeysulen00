@@ -36,11 +36,11 @@ I graduated from Fırat University Computer Engineering in 2023. I am developing
   
    <b>My Stats :</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibeysulen00&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibeysulen00&show_icons=true&theme=transparent)
 
  <b>My language :</b>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibeysulen00&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibeysulen00&hide=javascript,html)
 
 
 
